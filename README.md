@@ -1,5 +1,7 @@
 # OJSApp
 
+Application créé dans le cadre de mon stage au sein de L'OJS de Salon-de-Provence
+
 A new Flutter project.
 
 ## Getting Started
